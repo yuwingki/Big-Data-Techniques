@@ -1,0 +1,2 @@
+# Big Data Techniques
+This repository will cover practices that use parallel or distributed computing, a fundamental solution in handling big data. Specifically, I focused on the Apache Spark cloud platform that provides commoditized cluster computing. I also used the PySpark interface to solve common data science tasks, including descriptive analytics of static and streaming data and predictive modeling for big data.
